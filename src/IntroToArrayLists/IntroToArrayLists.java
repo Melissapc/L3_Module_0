@@ -40,7 +40,7 @@ for (int i = 0; i < arrays.size(); i-- ) {
 }
 		// 7. Print only the Strings that have the letter 'e' in them.
 for (int i = 0; i < args.length; i++) {
-	melissa move hahahahahahahahaha
+
 }
 	}
 }
