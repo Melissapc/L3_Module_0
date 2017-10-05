@@ -26,10 +26,10 @@ public class IntroToHashMaps {
 		// square roots (values). Use the following format
 
 		for (Integer i : roots.keySet()) {
-			System.out.println(roots.get(i));
-			String answ= "the square root of " +i+ "is " +d ;
+		//	System.out.println(roots.get(i));
+			String answ = "the square root of " + i + " is " + roots.get(i);
 			System.out.println(answ);
-			System.out.println(i);
+			
 		}
 
 		// example>>
